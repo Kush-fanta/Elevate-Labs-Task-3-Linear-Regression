@@ -1,5 +1,5 @@
 # Elevate-Labs-Task-3-Linear-Regression
-# Steps Performed
+## Steps Performed
 
 1. **Data Loading**  
    A small dataset of house listings was manually loaded into a pandas DataFrame.
